@@ -2,4 +2,4 @@
 # HAMBURG
 # HAMBURG
 # HTML5 , CSS3
-# LEARNING CODE
+# Web Developer and Programmer

@@ -22,4 +22,4 @@ Each student should:
 
 ## Links
 
- - [Sebastian Teacher 1](./Sebastian.md)
+ - [Sebastian, Teacher 1](./Sebastian.md)

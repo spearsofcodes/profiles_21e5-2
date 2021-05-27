@@ -1,9 +1,11 @@
-#### Naomi Ninnig
+##### Naomi Ninnig 
 
-##### Berlin
+###### Location:earth_asia: : Berlin
 
-##### favorite place in the world : Sicily, Italy.
+###### :airplane: favorite place in the world: Sicily, Italy :wine_glass:
 
-##### HTML,Css,Javascript,Shopify,Wordpress, cooking, gastronomie.
+###### :chess_pawn: My skills: HTML, Css, Javascript, Shopify, Wordpress, cooking school, gastronomie :woman_cook:
 
-##### i am hoping to find a new carrer path, and become a great developer.
+###### :woman_student: I am hoping to find a new carrer path, and become a great web developer.
+
+###### visit my profile :arrow_right:: [Github](https://github.com/naomininnig/profiles_21e5-2) 

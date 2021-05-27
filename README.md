@@ -22,4 +22,7 @@ Each student should:
 
 ## Links
 
- - [Fabian, WebDec Student](./Fabian.md)
+ - [Sebastian, BDL Teacher](./Sebastian.md)
+ - [Michelle, WebDev Student](./michelle.md)
+ - [Fabian, WebDev Student](./Fabian.md)
+
